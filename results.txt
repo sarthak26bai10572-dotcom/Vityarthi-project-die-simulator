@@ -1,0 +1,30 @@
+Sample Result
+
+MULTIPLE DIE ROLLING SIMULATOR
+--------------------------------
+Enter number of dice: 2
+Enter number of sides on each die: 6
+Enter number of rolls: 20
+
+SIMULATION RESULTS
+------------------
+Total rolls: 20
+Minimum total: 2
+Maximum total: 12
+Average total: 7.10
+Standard deviation: 2.65
+
+Frequency of totals:
+2 -> 1 time(s)
+3 -> 2 time(s)
+4 -> 1 time(s)
+5 -> 3 time(s)
+6 -> 2 time(s)
+7 -> 2 time(s)
+8 -> 2 time(s)
+9 -> 2 time(s)
+10 -> 2 time(s)
+11 -> 2 time(s)
+12 -> 1 time(s)
+
+Note: This is only a sample. Random results change on every run.
